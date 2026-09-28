@@ -9,13 +9,23 @@ I'm a **Frontend Engineer** focused on building **scalable, accessible web appli
 
 ### Tech I work with
 
-**Frontend:** Next.js · React.js · JavaScript · Tailwind CSS
+**Languages:** JavaScript · TypeScript
 
-**Backend & Data:** Node.js · Supabase · PostgreSQL
+**Frontend:** React · Next.js · Tailwind CSS · SCSS · ShadCN · React Flow
 
-**Tools & Platforms:** Git · GitHub Actions · Vercel · Figma
+**State & Data:** Redux · Zustand · TanStack Query · TanStack Table
 
-**AI & Automation:** Gemini API · Playwright · axe-core
+**Backend & APIs:** Node.js · REST APIs · GraphQL · Supabase · Prisma
+
+**Testing & Quality:** Playwright · axe-core · Vitest · Jest · Unit Testing · Integration Testing
+
+**Web Engineering:** Web Accessibility (a11y) · i18n · Core Web Vitals · SEO · Lighthouse
+
+**AI & Emerging Tech:** LLMs · Generative AI · Gemini API · Vector Databases · Firecrawl
+
+**DevOps & Tools:** Docker · GitHub Actions · CI/CD · Git · Postman · Figma
+
+**Payments & Integrations:** Razorpay
 
 ### Find me
 
